@@ -1,12 +1,17 @@
 Dados do aluno
 
 -Primeiro Nome: Gustavo Pereira Santos
+
 -Profissão: Analista de Qa
+
 -Cidade: São Paulo
+
 -O que faz nas horas vaga: estudo
+
 -Feedback sobre o curso Qualidade de Software: otimo ensino
+
 -Feedback sobre a plataforma de estudo da EBAC: otima qualidade
 
-Obrigado!!!
+
 
 
